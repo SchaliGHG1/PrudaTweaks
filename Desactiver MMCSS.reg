@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\MMCSS]
+"Start"=dword:00000004
+"DisplayName"="@%systemroot%\\system32\\drivers\\mmcss.sys,-100"
+"ErrorControl"=dword:00000001
+"ImagePath"=hex(2):5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,64,00,72,\
+  00,69,00,76,00,65,00,72,00,73,00,5c,00,6d,00,6d,00,63,00,73,00,73,00,2e,00,\
+  73,00,79,00,73,00,00,00
+"Type"=dword:00000001
+"Description"="@%systemroot%\\system32\\drivers\\mmcss.sys,-101"
